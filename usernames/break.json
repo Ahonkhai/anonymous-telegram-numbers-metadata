@@ -1,0 +1,19 @@
+{
+  "name": "@break",
+  "description": "The anonymous Telegram username @break.",
+  "image": "https://gram.org/api/img?u=https%3A%2F%2Fproxy.toncenter.com%2FSDkrfP3O2nOeC0hn9TKVrfkgz2bhF6pbOd9d831sY60%2Fpr%3Abig%2FbG9jYWw6Ly8vMDMvZDEvMDNkMWMxYTE4NjA5OTc4MTQ1M2QwYTQwNTMyMzIzOThjZWI2NGM4NDhjNmI4ZDI5Nzc3MDU0MjMwOGI2YTcxOQ",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "Short"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Letters Only"
+    },
+    {
+      "trait_type": "Length",
+      "value": "5"
+    }
+  ]
+}
