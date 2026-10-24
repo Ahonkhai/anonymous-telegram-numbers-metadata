@@ -1,0 +1,15 @@
+{
+  "name": "@stalker",
+  "description": "The anonymous Telegram username @stalker.",
+  "image": "https://gram.org/api/img?u=https%3A%2F%2Fimgproxy.toncenter.com%2FEcS-9fguHjVEAZvewJRMbsuGeKBWwflcib2IgBjc75Q%2Fpr%3Abig%2FaHR0cHM6Ly9uZnQuZnJhZ21lbnQuY29tL3VzZXJuYW1lL3N0YWxrZXIud2VicA",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "Letters Only"
+    },
+    {
+      "trait_type": "Length",
+      "value": "7"
+    }
+  ]
+}
