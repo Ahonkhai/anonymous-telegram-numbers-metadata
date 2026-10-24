@@ -1,0 +1,23 @@
+{
+  "name": "@emir",
+  "description": "The anonymous Telegram username @emir.",
+  "image": "https://gram.org/api/img?u=https%3A%2F%2Fproxy.toncenter.com%2FWlPkySA1yyEFBeugHs4zgWtkLPpV1H8QbxmSXJ4B_hg%2Fpr%3Abig%2FbG9jYWw6Ly8vMWMvNDIvMWM0MmYwYTk3ZDUyYzRiNjE4YzhhYjhkYjNmMTlkNWQ5NTBkOWU2MGMyNzk5M2RkNGI0MjhkOWQ1YzhjOTJiYQ",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "4 Characters"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Short"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Letters Only"
+    },
+    {
+      "trait_type": "Length",
+      "value": "4"
+    }
+  ]
+}
