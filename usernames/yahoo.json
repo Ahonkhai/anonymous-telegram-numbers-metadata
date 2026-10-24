@@ -1,0 +1,19 @@
+{
+  "name": "@yahoo",
+  "description": "The anonymous Telegram username @yahoo.",
+  "image": "https://gram.org/api/img?u=https%3A%2F%2Fproxy.toncenter.com%2Fd6HOKVhC3OcLwfhYo2BJG6Wc87qv-T26bMVbuRTCBSU%2Fpr%3Abig%2FbG9jYWw6Ly8vZjkvOTcvZjk5NzFiNDMxYTllOWYwOTE0ZGM5NTZiOWQ3MGY1ZTBlMjU4N2I3ZTZhOWZlMzc3NGVjMTZlMThhM2JjMWZhZQ",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "Short"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Letters Only"
+    },
+    {
+      "trait_type": "Length",
+      "value": "5"
+    }
+  ]
+}
