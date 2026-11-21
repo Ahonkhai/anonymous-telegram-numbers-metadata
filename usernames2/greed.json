@@ -1,0 +1,19 @@
+{
+  "name": "@greed",
+  "description": "The anonymous Telegram username @greed.",
+  "image": "https://ahonkhai.github.io/anonymous-telegram-numbers-metadata/images/nft-1795299577558.jpg",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "Short"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Letters Only"
+    },
+    {
+      "trait_type": "Length",
+      "value": "5"
+    }
+  ]
+}
