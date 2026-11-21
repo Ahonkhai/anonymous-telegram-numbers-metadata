@@ -1,0 +1,23 @@
+{
+  "name": "@beat",
+  "description": "The anonymous Telegram username @beat.",
+  "image": "https://gram.org/api/img?u=https%3A%2F%2Fproxy.toncenter.com%2Ft2njM5blIpAsVuGxzxU_dHU1sG9adhHlJyKel2MpNAI%2Fpr%3Abig%2FbG9jYWw6Ly8vNGQvNzAvNGQ3MDkxNDgzZDYwMzBkOWZlNzhlMzE3NGU0MzJiZTA2YzE4OGZhNTgwYWM0NDEyMmZmZWU4NmFmZTdmYWNjNw",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "4 Characters"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Short"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Letters Only"
+    },
+    {
+      "trait_type": "Length",
+      "value": "4"
+    }
+  ]
+}
