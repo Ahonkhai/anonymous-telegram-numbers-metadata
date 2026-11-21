@@ -1,0 +1,23 @@
+{
+  "name": "@john",
+  "description": "The anonymous Telegram username @john.",
+  "image": "https://gram.org/api/img?u=https%3A%2F%2Fproxy.toncenter.com%2FvPmdQdU8q-yC4c5GvztTZ4mUrPoB3O2Xrr3cmcGPy1g%2Fpr%3Abig%2FbG9jYWw6Ly8vMDUvMWIvMDUxYmVhNzcxZTRhNWM5OWE2MTgyMDY3OWVhZDU1YWY3N2VjM2Q0MzdjOWYzOGE4MmY1YmMzYzgzZDZkYTJmMA",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "4 Characters"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Short"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Letters Only"
+    },
+    {
+      "trait_type": "Length",
+      "value": "4"
+    }
+  ]
+}
