@@ -1,0 +1,23 @@
+{
+  "name": "@thot",
+  "description": "The anonymous Telegram username @thot.",
+  "image": "https://ahonkhai.github.io/anonymous-telegram-numbers-metadata/images/nft-1795297168748.jpg",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "4 Characters"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Short"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Letters Only"
+    },
+    {
+      "trait_type": "Length",
+      "value": "4"
+    }
+  ]
+}
