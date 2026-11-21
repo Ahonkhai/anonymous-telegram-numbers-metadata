@@ -1,0 +1,23 @@
+{
+  "name": "@envy",
+  "description": "The anonymous Telegram username @envy.",
+  "image": "https://gram.org/api/img?u=https%3A%2F%2Fproxy.toncenter.com%2F0T0SpS8BhJ8n0dDWpk7ycZ6xvQ1w4OS4JXo_HlsUQKs%2Fpr%3Abig%2FbG9jYWw6Ly8vYjAvYzQvYjBjNDBiN2NlYjkxODBkY2QyOWEwMDE5MTdkMGQ0Y2ZmMTkzOTY0ZGEzNzI5MTVmM2MwM2E1MWIxOTk3MDc4Ng",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "4 Characters"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Short"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Letters Only"
+    },
+    {
+      "trait_type": "Length",
+      "value": "4"
+    }
+  ]
+}
