@@ -1,0 +1,23 @@
+{
+  "name": "@shin",
+  "description": "The anonymous Telegram username @shin.",
+  "image": "https://gram.org/api/img?u=https%3A%2F%2Fproxy.toncenter.com%2FaAx2nEJqGn5l66p9FRuXgRdYqzmp9owFl5vsv7vWlpQ%2Fpr%3Abig%2FbG9jYWw6Ly8vY2UvN2QvY2U3ZDhmNTIyMDRmNGFhOGZjZDQyZWM5ZmYxMzc3NDcwMTEzN2RjYjJiOTU2MWY4YzBkNjVjMTljNWY5YjI0MQ",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "4 Characters"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Short"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Letters Only"
+    },
+    {
+      "trait_type": "Length",
+      "value": "4"
+    }
+  ]
+}
