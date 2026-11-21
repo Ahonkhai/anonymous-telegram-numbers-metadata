@@ -1,0 +1,15 @@
+{
+  "name": "@ritual",
+  "description": "The anonymous Telegram username @ritual.",
+  "image": "https://gram.org/api/img?u=https%3A%2F%2Fproxy.toncenter.com%2F1Gp5CqLEmwlqlsuWApKHKzYSbZ00vCfydxo0e-VTjCE%2Fpr%3Abig%2FbG9jYWw6Ly8vNTgvMGUvNTgwZTllOTEzMTAwZDU0MGViN2Y2ZjkyM2M2NmViN2Q1ZTc4NzhiMDk1MWJiOWY1M2RmNWVmNDA1MTI1MDcwYw",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "Letters Only"
+    },
+    {
+      "trait_type": "Length",
+      "value": "6"
+    }
+  ]
+}
