@@ -1,0 +1,19 @@
+{
+  "name": "@wrath",
+  "description": "The anonymous Telegram username @wrath.",
+  "image": "https://gram.org/api/img?u=https%3A%2F%2Fproxy.toncenter.com%2F7N6gLhsnjD_CEuw8Zuzlc65evopzP4uBWfTpQGe-nTI%2Fpr%3Abig%2FbG9jYWw6Ly8vNzUvYTIvNzVhMmJlNjZkNjYwZmNkOTQ4NTA4MTYwNzRjZjE0N2YxZWQ3NjAxYzNlNDQ4MmM1ZjlmODZlM2QxYWJmODdiNQ",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "Short"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Letters Only"
+    },
+    {
+      "trait_type": "Length",
+      "value": "5"
+    }
+  ]
+}
